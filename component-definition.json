@@ -156,6 +156,38 @@
               }
             }
           }
+        },
+        {
+          "title": "Destination Hero",
+          "id": "destination-hero",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block",
+                "template": {
+                  "name": "Destination Hero",
+                  "model": "destination-hero",
+                  "headline": "<p>Discover the World</p>",
+                  "subheadline": "<p>Explore our handpicked travel destinations</p>"
+                }
+              }
+            }
+          }
+        },
+        {
+          "title": "Destination Cards",
+          "id": "destination-cards",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block",
+                "template": {
+                  "name": "Destination Cards",
+                  "model": "destination-cards"
+                }
+              }
+            }
+          }
         }
       ]
     }
