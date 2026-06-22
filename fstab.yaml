@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p8452-e1321974.adobeaemcloud.com//bin/franklin.delivery/baseer-iqbal/aem-travel-eds-ue/main"
+    url: "https://author-p8452-e1321974.adobeaemcloud.com//bin/franklin.delivery/baseer-engineering/aem-travel-eds-ue/main"
     type: "markup"
     suffix: ".html"
