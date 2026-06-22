@@ -2,6 +2,6 @@
   "project": "AEM Travel EDS UE",
   "editUrlLabel": "AEM Editor",
   "editUrlPattern": "{{contentSourceUrl}}{{pathname}}?cmd=open"
-  "host": "main--aem-travel-eds-ue--baseer-iqbal.aem.live",
-  "previewHost": "main--aem-travel-eds-ue--baseer-iqbal.aem.page"
+  "host": "main--aem-travel-eds-ue--baseer-engineering.aem.live",
+  "previewHost": "main--aem-travel-eds-ue--baseer-engineering.aem.page"
 }
