@@ -212,6 +212,34 @@
         "value": "",
         "label": "Text",
         "valueType": "string"
+      },
+    ]
+  },
+  {
+    "id": "destination-cards",
+    "fields": [
+      {
+        "component": "text",
+        "name": "heading",
+        "label": "Section Heading",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
+    "id": "destination-hero",
+    "fields": [
+      {
+        "component": "richtext",
+        "name": "headline",
+        "label": "Headline",
+        "valueType": "string"
+      },
+      {
+        "component": "richtext",
+        "name": "subheadline",
+        "label": "Subheadline",
+        "valueType": "string"
       }
     ]
   }
